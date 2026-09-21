@@ -94,7 +94,7 @@ local GameConfig = {
             DisplayName = "4thM1",
             ReactionTime = 0.15,
         },
-        ["rbxassetid://116278224437295"] = {
+        ["rbxassetid://96466099895892"] = {
             DisplayName = "M2",
             ReactionTime = 0.3,
         },
@@ -165,7 +165,7 @@ local GameConfig = {
 
     },
     ["MuayThaiAnims"] = {
-        ["rbxassetid://137299369381761"] = {
+        ["rbxassetid://74462376752922"] = {
             DisplayName = "M2",
             ReactionTime = 0.3,
         },
